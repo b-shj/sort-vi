@@ -3,7 +3,7 @@ import { mergeSortAnimation } from '../Animations/mergeSort'
 import { quickSortAnimation } from '../Animations/quickSort'
 import { bubbleSortAnimation } from '../Animations/bubbleSort'
 import { insertionSortAnimation } from '../Animations/insertionSort'
-import './../app.css'
+import './styles.css'
 import ButtonBar from './buttonBar'
 
 import { changeArrayHelper } from "../Helpers/changeArray";
