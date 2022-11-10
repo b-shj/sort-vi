@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import SortingVisualiser from './Components/sortingVisualiser'
-import More from './Components/More'
+import More from './Components/more'
 import About from './Components/about'
 import NavBar from './Components/navBar'
 
